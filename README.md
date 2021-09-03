@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @KuneneT
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Programming C# language
-- 💞️ I’m looking to collaborate on MTN App academy
-- 📫 How to reach me kunenegayede@gmail.com
+🖐 Hi There This T. Kunene
+This App is about helping student who are new at university and senior students
+who are doing the same course but different years to help each other where they can
+specially with past papers and books they longer need or need to sell. The app is more like 
+chatting environment for doing doing the same course and here you can find a study partner.
 
-<!---
-KuneneT/KuneneT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😊🙌Thank you for your time!!!
